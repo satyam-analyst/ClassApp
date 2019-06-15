@@ -1,0 +1,21 @@
+package com.example.classapp;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+public class Samiksha extends AppCompatActivity {
+
+    ImageView i25;
+    TextView t25;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_samiksha);
+
+        i25=findViewById(R.id.samiksha);
+        t25=findViewById(R.id.sam);
+    }
+}

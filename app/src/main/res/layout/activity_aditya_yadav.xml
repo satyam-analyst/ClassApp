@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AdityaYadav">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:id="@+id/aditya"
+        android:layout_height="wrap_content"
+        android:src="@drawable/aditya" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:id="@+id/adi"
+        android:textSize="25dp"
+        android:text="Aditya
+201801...
+He is from Nepal. He is a good boy of our section. He is talented and teachers like him. His nature is very friendly with other students."
+        android:layout_height="match_parent" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Jahan">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/jhan2"
+        android:id="@+id/jahan"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:id="@+id/jah"
+        android:textSize="25dp"
+        android:text="Jahan
+201801__
+He is from Bangladesh. He was class representative of our section. He is very smart and updated guy of our class. Hw is also good in studies. He knows all what is happening in our university. Teachers like him and students also ."
+        android:layout_height="match_parent" />
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

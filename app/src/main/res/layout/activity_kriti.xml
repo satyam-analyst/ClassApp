@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Kriti">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/kito2"
+        android:id="@+id/kriti"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="25dp"
+        android:id="@+id/kri"
+        android:textStyle="bold"
+        android:text="Kriti
+201801...
+She is from Assam. She is very good and friendly by nature. All the students qnd teachers like her a lot. She is also very good in extra curriculum activities.
+"
+        android:layout_height="match_parent" />
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

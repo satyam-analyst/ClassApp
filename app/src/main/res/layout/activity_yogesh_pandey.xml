@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".YogeshPandey">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/yogeshpandy2"
+        android:id="@+id/yogesh"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:id="@+id/yog"
+        android:text="Yogesh is very naughty guy, he loves to irritate or we can say to spread smile on his friends faces.He always gives the silly joke in class. But he is very intelligent, studious, hardworking. And also faithful towards his friends."
+        android:layout_height="match_parent" />
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

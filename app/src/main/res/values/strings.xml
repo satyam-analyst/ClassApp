@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">CLASSMATE</string>
+
+    <string-array name="main_title">
+        <item>Burhan</item>
+        <item>Aditya Yadav</item>
+        <item>Ayush Anand</item>
+        <item>Ankush Singh</item>
+        <item>Fayaz</item>
+        <item>Jahan</item>
+        <item>Yogesh Pandey</item>
+        <item>Saif Ali</item>
+        <item>Karan Kumar Singh</item>
+        <item>Karun Sahni</item>
+        <item>Abhishek Bharjwaj</item>
+        <item>Vairag Jain</item>
+        <item>Trisha Bhowmik</item>
+        <item>Soni Jain</item>
+        <item>Shubham Pandey</item>
+        <item>Samiksha Sonam</item>
+        <item>Riya Paul</item>
+        <item>Priyambada Arya</item>
+        <item>Prince Kumar Roy</item>
+        <item>Umar Badmasi</item>
+        <item>Nafees Ahmad</item>
+        <item>Mohit Rathod</item>
+        <item>Manish Aggarwal</item>
+        <item>Luis Combo</item>
+        <item>Tushar Dubey</item>
+        <item>Ibadur Rahman</item>
+        <item>Pritam</item>
+        <item>Kriti</item>
+        <item>Irvine</item>
+        <item>Farhan</item>
+
+    </string-array>
+    <string-array name="sub_title">
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+    </string-array>
+    <string-array name="version_title">
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+        <item>CSE-E</item>
+
+    </string-array>
+    <string-array name="image_title">
+        <item>@drawable/burhansharma</item>
+        <item>@drawable/aditya</item>
+        <item>@drawable/ayushanad</item>
+        <item>@drawable/ankush</item>
+        <item>@drawable/fayaz</item>
+        <item>@drawable/jhan</item>
+        <item>@drawable/yogeshpandy</item>
+        <item>@drawable/saif</item>
+        <item>@drawable/karankumar</item>
+        <item>@drawable/karun</item>
+        <item>@drawable/abishak</item>
+        <item>@drawable/viage</item>
+        <item>@drawable/trisha</item>
+        <item>@drawable/soni</item>
+        <item>@drawable/shunhampandy</item>
+        <item>@drawable/samiksha</item>
+        <item>@drawable/riyapal</item>
+        <item>@drawable/priyambada</item>
+        <item>@drawable/prince</item>
+        <item>@drawable/omar</item>
+        <item>@drawable/nafis</item>
+        <item>@drawable/mohitrathore</item>
+        <item>@drawable/manish</item>
+        <item>@drawable/louis</item>
+        <item>@drawable/tushar</item>
+        <item>@drawable/rahman</item>
+        <item>@drawable/prethum</item>
+        <item>@drawable/kito</item>
+        <item>@drawable/irvine</item>
+        <item>@drawable/farhan</item>
+
+
+    </string-array>
+
+
+</resources>

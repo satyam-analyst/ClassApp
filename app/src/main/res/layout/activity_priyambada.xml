@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Priyambada">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/priyambada2"
+        android:id="@+id/priyambada"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="25dp"
+        android:id="@+id/pri"
+        android:textStyle="bold"
+        android:text="Priyambda
+2018016351
+She is from Bihar. She is a beautiful and simple girl. Her behaviour is so impressive. She is very kind and also very friendly with other. She is a bright student. Teachers like her for the impressive performance. Her singing voice is also very good. She handles every situation very calmly."
+        android:layout_height="match_parent" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

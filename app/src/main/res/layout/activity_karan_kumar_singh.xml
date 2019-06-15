@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".KaranKumarSingh">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:src="@drawable/karankumar2"
+        android:id="@+id/karan"
+        android:layout_height="wrap_content"/>
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textSize="25dp"
+        android:id="@+id/kar"
+        android:textStyle="bold"
+        android:text="Karan Kumar Singh- He is from the city of Dhoni- Ranchi and just like him,he is very hard working.
+He has a lot of knowledge of the languages of computer- C,C++,Java etc.He is very helpful, kind and talkative too."
+        android:layout_height="match_parent" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
